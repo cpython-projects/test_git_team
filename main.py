@@ -1,5 +1,5 @@
 def full_name(first, last):
-    ...
+    return f"{first} {last}"
 
 
 def current_month():
@@ -12,3 +12,4 @@ def main():
 
 
 if __name__ == "__main__":
+    main()
