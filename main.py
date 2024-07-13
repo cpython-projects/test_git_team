@@ -3,7 +3,7 @@ def full_name(first, last):
 
 
 def current_month():
-    ...
+    return 'July'
 
 
 def main():
